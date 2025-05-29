@@ -113,7 +113,7 @@
     "date-fns": "2.28.0",
     "es6-promise": "4.2.8",
     "fast-memoize": "2.5.2",
-    "framer-motion": "4.1.8",
+    "framer-motion": "4.1.17",
     "graphql": "16.3.0",
     "history": "4.10.1",
     "ibantools": "2.2.0",
