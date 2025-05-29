@@ -167,7 +167,7 @@
     "zod": "3.19.1"
   },
   "devDependencies": {
-    "jest-styled-components": "6.3.3",
+    "jest-styled-components": "6.3.4",
     "mockdate": "3.0.5",
     "@types/applepayjs": "3.0.4",
     "@types/enzyme": "3.10.11",
