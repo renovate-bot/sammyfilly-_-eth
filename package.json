@@ -196,7 +196,7 @@
     "prettier-config-constellation": "0.0.5",
     "react-refresh": "0.11.0",
     "react-refresh-typescript": "2.0.3",
-    "redux-mock-store": "1.5.4",
+    "redux-mock-store": "1.5.5",
     "redux-saga-test-plan": "4.0.6",
     "release-it": "13.7.2",
     "rimraf": "3.0.2",
