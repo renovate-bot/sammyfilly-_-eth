@@ -14989,10 +14989,10 @@ firebase@9.17.1:
     "@firebase/storage-compat" "0.3.1"
     "@firebase/util" "1.9.2"
 
-fisher-yates@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/fisher-yates/-/fisher-yates-1.0.3.tgz#fb4ce9f1b873760c4208adfe5ce08100f264411b"
-  integrity sha1-+0zp8bhzdgxCCK3+XOCBAPJkQRs=
+fisher-yates@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/fisher-yates/-/fisher-yates-1.0.4.tgz#ac9a1c3f967b0d2d13abd2293c627e333af2b097"
+  integrity sha512-+wpHO263XgTCxsoX77YPQ+cWVYORw25vv+Y5JXbi7ZBxWGDUMoZBTr21ktjmU3SOHY5/oKO3ODYBZUSxI1Cqrg==
 
 flat-cache@^3.0.4:
   version "3.0.4"
