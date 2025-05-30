@@ -138,7 +138,7 @@
     "@typescript-eslint/parser": "4.33.0",
     "@wojtekmaj/enzyme-adapter-react-17": "0.8.0",
     "babel-jest": "27.0.6",
-    "babel-loader": "8.2.2",
+    "babel-loader": "8.4.1",
     "babel-plugin-inline-react-svg": "2.0.2",
     "babel-plugin-module-resolver": "4.1.0",
     "babel-plugin-react-html-attrs": "3.0.5",
