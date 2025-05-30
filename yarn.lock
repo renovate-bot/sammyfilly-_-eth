@@ -8227,10 +8227,10 @@
     "@types/scheduler" "*"
     csstype "^3.0.2"
 
-"@types/redux-form@8.2.3":
-  version "8.2.3"
-  resolved "https://registry.yarnpkg.com/@types/redux-form/-/redux-form-8.2.3.tgz#928bc686be7aeec8075bf4ec2bc4749e5299c981"
-  integrity sha512-5L5y9SfeXHu8jF+wdUzQnN+q3drHk6+MgPr5YDsHuxqbAsUeXDF2UQ38YmT8pbTVGZxUQwFXX+x58SuWxZnO7Q==
+"@types/redux-form@8.3.11":
+  version "8.3.11"
+  resolved "https://registry.yarnpkg.com/@types/redux-form/-/redux-form-8.3.11.tgz#05d9b9f92bd1c5291ce33de91b55b345f5115a72"
+  integrity sha512-aHZgvDt9rg6C/8IHVgooCABxrWzQxJlVP47b6draiMLXKfWbyhYOVf8AV8+UPujRTnVxp1mWb57kL+r/Rl3wNQ==
   dependencies:
     "@types/react" "*"
     redux "^3.6.0 || ^4.0.0"
@@ -23001,10 +23001,10 @@ reduce-function-call@^1.0.1:
   dependencies:
     balanced-match "^1.0.0"
 
-redux-form@8.3.9:
-  version "8.3.9"
-  resolved "https://registry.yarnpkg.com/redux-form/-/redux-form-8.3.9.tgz#bffd5c90b16c1559466f765374ecdd6cf4529155"
-  integrity sha512-PsBDydvGq+OfYNmk4AVlUMs1S9oBsBxKHikS6AfE59Kyx3NMNO7A6N4yTANRWu7D/FDu6y5LtbloLEeunFOJbw==
+redux-form@8.3.10:
+  version "8.3.10"
+  resolved "https://registry.yarnpkg.com/redux-form/-/redux-form-8.3.10.tgz#335657fafd4b26b91b4ce65371cd9dabe3648158"
+  integrity sha512-Eeog8dJYUxCSZI/oBoy7VkprvMjj1lpUnHa3LwjVNZvYDNeiRZMoZoaAT+6nlK2YQ4aiBopKUMiLe4ihUOHCGg==
   dependencies:
     "@babel/runtime" "^7.9.2"
     es6-error "^4.1.1"
