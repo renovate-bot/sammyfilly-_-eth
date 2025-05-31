@@ -113,7 +113,7 @@
     "@formatjs/cli": "4.2.28",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.10",
     "@react-theming/storybook-addon": "1.1.1",
-    "@reduxjs/toolkit": "1.6.0",
+    "@reduxjs/toolkit": "1.9.7",
     "@storybook/addon-actions": "6.3.6",
     "@storybook/addon-essentials": "6.3.6",
     "@storybook/addon-info": "5.3.21",
