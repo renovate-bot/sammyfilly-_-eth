@@ -96,7 +96,7 @@
     "@types/d3-array": "3.0.2",
     "axios": "0.21.4",
     "base-64": "0.1.0",
-    "bignumber.js": "8.0.2",
+    "bignumber.js": "8.1.1",
     "bip21": "2.0.3",
     "bitcoinforksjs-lib": "https://github.com/blockchain/bitcoinjs-lib.git#opt-in-bitcoincash-sighash",
     "bitcoinjs-lib": "5.2.0",
