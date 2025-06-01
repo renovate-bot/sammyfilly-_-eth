@@ -169,7 +169,7 @@
   "devDependencies": {
     "jest-styled-components": "6.3.3",
     "mockdate": "3.0.5",
-    "@types/applepayjs": "3.0.4",
+    "@types/applepayjs": "14.0.9",
     "@types/enzyme": "3.10.11",
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/react": "12.1.5",

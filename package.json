@@ -121,7 +121,7 @@
     "@storybook/cli": "6.3.6",
     "@storybook/react": "6.3.6",
     "@storybook/storybook-deployer": "2.8.16",
-    "@types/applepayjs": "3.0.4",
+    "@types/applepayjs": "14.0.9",
     "@types/googlepay": "0.6.4",
     "@types/gtag.js": "0.0.11",
     "@types/hoist-non-react-statics": "3.3.1",
