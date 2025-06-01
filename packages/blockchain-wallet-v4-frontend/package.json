@@ -149,7 +149,7 @@
     "react-window": "1.8.6",
     "react-spring": "9.4.4",
     "read-blob": "1.1.2",
-    "redux": "4.0.5",
+    "redux": "4.2.1",
     "redux-form": "8.3.9",
     "redux-logger": "3.0.6",
     "redux-persist": "5.10.0",
