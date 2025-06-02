@@ -156,7 +156,7 @@
     "enzyme": "3.11.0",
     "enzyme-to-json": "3.6.2",
     "eslint": "7.31.0",
-    "eslint-config-airbnb": "18.2.1",
+    "eslint-config-airbnb": "19.0.4",
     "eslint-config-constellation": "0.0.26",
     "eslint-config-prettier": "8.3.0",
     "eslint-import-resolver-typescript": "2.4.0",
