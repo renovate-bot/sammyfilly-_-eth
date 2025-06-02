@@ -175,7 +175,7 @@
     "express": "4.17.1",
     "favicons": "6.2.2",
     "favicons-webpack-plugin": "5.0.2",
-    "fork-ts-checker-webpack-plugin": "6.4.0",
+    "fork-ts-checker-webpack-plugin": "9.1.0",
     "futoin-hkdf": "1.4.2",
     "generate-changelog": "1.8.0",
     "hoist-non-react-statics": "3.3.2",
