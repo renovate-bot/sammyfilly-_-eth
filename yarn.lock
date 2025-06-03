@@ -25074,10 +25074,10 @@ stylelint-config-constellation@0.0.5:
   resolved "https://registry.yarnpkg.com/stylelint-config-constellation/-/stylelint-config-constellation-0.0.5.tgz#265956769e11eba621ad4d1e2f91d60e1fdd569d"
   integrity sha512-/N2nmw+/1QWmPudZ9bl9ISIGT0h1rR26cVFZnRR9WHzEHOmD83saDHsmCJMuC0NWby6O/ryOE26ZSf73eVZbPg==
 
-stylelint-config-prettier@8.0.2:
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/stylelint-config-prettier/-/stylelint-config-prettier-8.0.2.tgz#da9de33da4c56893cbe7e26df239a7374045e14e"
-  integrity sha512-TN1l93iVTXpF9NJstlvP7nOu9zY2k+mN0NSFQ/VEGz15ZIP9ohdDZTtCWHs5LjctAhSAzaILULGbgiM0ItId3A==
+stylelint-config-prettier@9.0.5:
+  version "9.0.5"
+  resolved "https://registry.yarnpkg.com/stylelint-config-prettier/-/stylelint-config-prettier-9.0.5.tgz#9f78bbf31c7307ca2df2dd60f42c7014ee9da56e"
+  integrity sha512-U44lELgLZhbAD/xy/vncZ2Pq8sh2TnpiPvo38Ifg9+zeioR+LAkHu0i6YORIOxFafZoVg0xqQwex6e6F25S5XA==
 
 stylelint-config-recommended@4.0.0:
   version "4.0.0"

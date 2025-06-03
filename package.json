@@ -205,7 +205,7 @@
     "style-loader": "2.0.0",
     "stylelint": "15.10.1",
     "stylelint-config-constellation": "0.0.5",
-    "stylelint-config-prettier": "8.0.2",
+    "stylelint-config-prettier": "9.0.5",
     "stylelint-config-recommended": "4.0.0",
     "stylelint-config-styled-components": "0.1.1",
     "stylelint-prettier": "1.2.0",
