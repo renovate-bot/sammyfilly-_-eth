@@ -191,7 +191,7 @@
     "lint-staged": "10.5.4",
     "madge": "5.0.1",
     "mock-socket": "9.0.3",
-    "node-polyfill-webpack-plugin": "1.1.4",
+    "node-polyfill-webpack-plugin": "4.1.0",
     "prettier": "2.3.2",
     "prettier-config-constellation": "0.0.5",
     "react-refresh": "0.11.0",
