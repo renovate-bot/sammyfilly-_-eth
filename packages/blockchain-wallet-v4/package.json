@@ -68,7 +68,7 @@
     "bitcoinforksjs-lib": "https://github.com/blockchain/bitcoinjs-lib.git#opt-in-bitcoincash-sighash",
     "bitcoinjs-lib": "5.2.0",
     "bitcoinjs-message": "2.2.0",
-    "bs58": "4.0.1",
+    "bs58": "6.0.0",
     "cashaddress": "1.1.0",
     "daggy": "1.4.0",
     "data.either": "1.5.2",
