@@ -107,7 +107,7 @@
     "country-region-data": "1.7.0",
     "dompurify": "2.3.6",
     "d3-array": "2.12.1",
-    "d3-time-format": "3.0.0",
+    "d3-time-format": "4.1.0",
     "data.either": "1.5.2",
     "data.maybe": "1.2.3",
     "date-fns": "2.28.0",
