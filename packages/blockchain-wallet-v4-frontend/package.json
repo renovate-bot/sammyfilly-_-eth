@@ -124,7 +124,7 @@
     "polished": "4.1.3",
     "prop-types": "15.7.2",
     "qr.js": "https://github.com/defunctzombie/qr.js.git",
-    "qrcode.react": "1.0.1",
+    "qrcode.react": "4.2.0",
     "qs": "6.10.3",
     "ramda": "0.26.1",
     "react": "17.0.2",
