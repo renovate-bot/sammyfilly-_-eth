@@ -160,7 +160,7 @@
     "eslint-config-constellation": "0.0.26",
     "eslint-config-prettier": "8.3.0",
     "eslint-import-resolver-typescript": "2.4.0",
-    "eslint-plugin-import": "2.23.4",
+    "eslint-plugin-import": "2.32.0",
     "eslint-plugin-jest": "24.3.5",
     "eslint-plugin-jest-dom": "3.9.0",
     "eslint-plugin-json": "3.0.0",
