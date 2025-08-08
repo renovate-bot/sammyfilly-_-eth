@@ -8609,13 +8609,13 @@
     react-lifecycles-compat "^3.0.4"
     react-textarea-autosize "^6.1.0"
 
-"@veriff/incontext-sdk@0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@veriff/incontext-sdk/-/incontext-sdk-0.3.0.tgz#f4ac5f9b8c1174c733872d2de82557c937756611"
-  integrity sha512-nlLqRmDf2zeRappq1oJcvyBzwbIsyUB3yPMsdMxkfYHS1vJJ3LCFPeS95UyRRkLHB01DNjUWmxRZMiT/039DIg==
+"@veriff/incontext-sdk@2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@veriff/incontext-sdk/-/incontext-sdk-2.5.0.tgz#775e843702f9c724b7feab99a9940f61e689223c"
+  integrity sha512-ORL5eDBKq7nBa+uuAjLWK/NsvbUi0nkIEdKP8FeppOEh5hmsdIK0UFTAnyApx7szr9dJPsiC/pgrx1B+jlpBxw==
   dependencies:
-    dom-focus-lock "^1.0.4"
-    tua-body-scroll-lock "1.0.0"
+    dom-focus-lock "1.0.4"
+    tua-body-scroll-lock "1.2.1"
 
 "@visx/axis@2.12.2":
   version "2.12.2"
@@ -13233,7 +13233,7 @@ dom-converter@^0.2.0:
   dependencies:
     utila "~0.4"
 
-dom-focus-lock@^1.0.4:
+dom-focus-lock@1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/dom-focus-lock/-/dom-focus-lock-1.0.4.tgz#1a6f900399efa4e8cc9d7078ba40acf080fc10d8"
   integrity sha512-Tiz2EYedB14UW0/lY5PEzFAie66e9itoEVKhz0M9xz1cHqP4Jd0XUg/AT2m6DtbhCFa9DHo6nQyePuLH7Mx9+A==
@@ -25875,10 +25875,10 @@ tty-browserify@^0.0.1:
   resolved "https://registry.yarnpkg.com/tty-browserify/-/tty-browserify-0.0.1.tgz#3f05251ee17904dfd0677546670db9651682b811"
   integrity sha512-C3TaO7K81YvjCgQH9Q1S3R3P3BtN3RIM8n+OvX4il1K1zgE8ZhI0op7kClgkxtutIE8hQrcrHBXvIheqKUUCxw==
 
-tua-body-scroll-lock@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/tua-body-scroll-lock/-/tua-body-scroll-lock-1.0.0.tgz#77bfefa58846fe49f2ef03fe8eb39e15e5e93f45"
-  integrity sha512-3ohEBWgwbFCtpt2Dls2dzgmMdAS3CmytbAsiIdh9OvGL91h0JSlbayJ7zG4wuf8KFEQtce2nFAd5/+pw7+Dc9w==
+tua-body-scroll-lock@1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/tua-body-scroll-lock/-/tua-body-scroll-lock-1.2.1.tgz#a45b428a61ff41e7cccded11c2095d44ac02536e"
+  integrity sha512-DuGbQxIBSbz7/aAwh0oMThOwCwDdYzsU8nF5XQPAvoeOBWp/qhjrZfOtc84gj6CQLZu5L1+TgMNX6fW3OuafHA==
 
 tunnel-agent@^0.6.0:
   version "0.6.0"
