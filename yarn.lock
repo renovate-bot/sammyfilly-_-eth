@@ -22336,10 +22336,10 @@ react-helmet-async@^1.0.2, react-helmet-async@^1.0.7:
     react-fast-compare "^3.2.0"
     shallowequal "^1.1.0"
 
-react-idle-timer@5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/react-idle-timer/-/react-idle-timer-5.2.0.tgz#04874499cc7a07a4d3e27c9ed31dcfb4c6e7ba50"
-  integrity sha512-Q8UQ9n8jGhgtB3xN6U212nmkaqZP6FToWsUT1g1HIl/TqJQP1AnW44+tblu4BEhTukI3fGhrhXjtexz9I6pSpg==
+react-idle-timer@5.7.3:
+  version "5.7.3"
+  resolved "https://registry.yarnpkg.com/react-idle-timer/-/react-idle-timer-5.7.3.tgz#913d297a1217a9289e9f1d3d98ef419539c91e74"
+  integrity sha512-7QuPkJ8ffraiECVRP1KlzHOocvkvN1XEPeOevnfMLNc7A6O/TMZo11j5sPfYvftvkOqNA84iCc5dYXoX+m2raQ==
 
 react-input-autosize@3.0.0, react-input-autosize@^3.0.0:
   version "3.0.0"
