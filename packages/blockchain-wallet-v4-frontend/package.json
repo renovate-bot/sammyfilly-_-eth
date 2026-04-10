@@ -116,7 +116,7 @@
     "framer-motion": "4.1.8",
     "graphql": "16.3.0",
     "history": "4.10.1",
-    "ibantools": "2.2.0",
+    "ibantools": "4.5.4",
     "libphonenumber-js": "0.4.40",
     "lz-string": "1.4.4",
     "matchmedia-polyfill": "0.3.2",

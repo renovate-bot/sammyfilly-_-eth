@@ -16540,10 +16540,10 @@ husky@3.0.5:
     run-node "^1.0.0"
     slash "^3.0.0"
 
-ibantools@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/ibantools/-/ibantools-2.2.0.tgz#39f73a88b54f760975929ed21bb0be1161de9c5b"
-  integrity sha512-avdGWvx7KCeb6HROtSdl2hvcvU5MJVU837dshNZjq2j6lVsgVmQGA9N7IAbI7bfXMTRvRXzTRaNNck9khL1CjA==
+ibantools@4.5.4:
+  version "4.5.4"
+  resolved "https://registry.yarnpkg.com/ibantools/-/ibantools-4.5.4.tgz#d9aaf7d8d3790b8701af380c72cec7db41ac66a3"
+  integrity sha512-6jX1gh4aH6XH+o0ey+wtkMTzkcvsEta7DakIOZSng9voZYpMw3U+gK1+tZChk3aRcPcloEt0NOzksjaRZiqXbw==
 
 iconv-lite@0.4.24, iconv-lite@^0.4.24:
   version "0.4.24"
