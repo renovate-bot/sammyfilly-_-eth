@@ -8084,12 +8084,12 @@
   resolved "https://registry.yarnpkg.com/@types/qs/-/qs-6.9.7.tgz#63bb7d067db107cc1e457c303bc25d511febf6cb"
   integrity sha512-FGa1F62FT09qcrueBA6qYTrJPVDzah9a+493+o2PCXsesWHIn27G98TsSMs3WPNbZIEj4+VJf6saSFpvD+3Zsw==
 
-"@types/ramda@0.26.44":
-  version "0.26.44"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.44.tgz#70bb06f5ae60809dc83a3d804505ee3123443738"
-  integrity sha512-s0cj9rylWw+Ax/AnttCQzMrLZGq/OxAIZgrkRLK1QHJIF6Qabd0//acMCFM6+Xb8Bi8p8PkT2fqpaQveRju/kA==
+"@types/ramda@0.32.0":
+  version "0.32.0"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.32.0.tgz#c138a9255d3eceac5a49275c701ae66c89b07bab"
+  integrity sha512-eTRIFYUxjVvZimlPNpXzXc3j4tnSYc7lBsD7X3zwtRvJML3qXclM4+m8vvmAZAHhBASKPmZAp6qu2C/DwJpBGQ==
   dependencies:
-    ts-toolbelt "^6.3.3"
+    types-ramda "^0.32.0"
 
 "@types/randombytes@^2.0.0":
   version "2.0.0"
@@ -22064,10 +22064,10 @@ railroad-diagrams@^1.0.0:
   dependencies:
     ramda "^0.19.1"
 
-ramda@0.26.1:
-  version "0.26.1"
-  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
-  integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
+ramda@0.32.0:
+  version "0.32.0"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.32.0.tgz#b2116807b59b6b177af7a2ad19b14a3653570e96"
+  integrity sha512-GQWAHhxhxWBWA8oIBr1XahFVjQ9Fic6MK9ikijfd4TZHfE2+urfk+irVlR5VOn48uwMgM+loRRBJd6Yjsbc0zQ==
 
 ramda@^0.19.1:
   version "0.19.1"
@@ -25823,10 +25823,10 @@ ts-pnp@^1.1.6:
   resolved "https://registry.yarnpkg.com/ts-pnp/-/ts-pnp-1.2.0.tgz#a500ad084b0798f1c3071af391e65912c86bca92"
   integrity sha512-csd+vJOb/gkzvcCHgTGSChYpy5f1/XKNsmvBGO4JXS+z1v2HobugDz4s1IeFXM3wZB44uczs+eazB5Q/ccdhQw==
 
-ts-toolbelt@^6.3.3:
-  version "6.15.5"
-  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-6.15.5.tgz#cb3b43ed725cb63644782c64fbcad7d8f28c0a83"
-  integrity sha512-FZIXf1ksVyLcfr7M317jbB67XFJhOO1YqdTcuGaq9q5jLUoTikukZ+98TPjKiP2jC5CgmYdWWYs0s2nLSU0/1A==
+ts-toolbelt@^9.6.0:
+  version "9.6.0"
+  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-9.6.0.tgz#50a25426cfed500d4a09bd1b3afb6f28879edfd5"
+  integrity sha512-nsZd8ZeNUzukXPlJmTBwUAuABDe/9qtVDelJeT/qW0ow3ZS3BsQJtNkan1802aM9Uf68/Y8ljw86Hu0h5IUW3w==
 
 tsconfig-paths@^3.9.0:
   version "3.11.0"
@@ -26011,6 +26011,13 @@ typeforce@^1.11.3, typeforce@^1.11.5:
   version "1.18.0"
   resolved "https://registry.yarnpkg.com/typeforce/-/typeforce-1.18.0.tgz#d7416a2c5845e085034d70fcc5b6cc4a90edbfdc"
   integrity sha512-7uc1O8h1M1g0rArakJdf0uLRSSgFcYexrVoKo+bzJd32gd4gDy2L/Z+8/FjPnU9ydY3pEnVPtr9FyscYY60K1g==
+
+types-ramda@^0.32.0:
+  version "0.32.0"
+  resolved "https://registry.yarnpkg.com/types-ramda/-/types-ramda-0.32.0.tgz#ea4ca5f9e0753f1f0ee20f72cb294a4db2d3db0a"
+  integrity sha512-iZtriSUdsDqOlip/wUaDNcoiskbVf5RdcqLNpQdUcOM1JKFClochCvPZCDjn/cc9HzoBzi4DEB4iPr1PbrhN1w==
+  dependencies:
+    ts-toolbelt "^9.6.0"
 
 typescript-compare@^0.0.2:
   version "0.0.2"
