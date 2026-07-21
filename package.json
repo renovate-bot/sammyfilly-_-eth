@@ -192,7 +192,7 @@
     "madge": "5.0.1",
     "mock-socket": "9.0.3",
     "node-polyfill-webpack-plugin": "1.1.4",
-    "prettier": "2.3.2",
+    "prettier": "3.9.6",
     "prettier-config-constellation": "0.0.5",
     "react-refresh": "0.11.0",
     "react-refresh-typescript": "2.0.3",
