@@ -16630,10 +16630,10 @@ immutable-ext@1.1.5:
   resolved "https://registry.yarnpkg.com/immutable-ext/-/immutable-ext-1.1.5.tgz#3cdf27a067527c85817bf161a0dad1361ed579cb"
   integrity sha1-PN8noGdSfIWBe/FhoNrRNh7Vecs=
 
-immutable@3.8.1:
-  version "3.8.1"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.1.tgz#200807f11ab0f72710ea485542de088075f68cd2"
-  integrity sha1-IAgH8Rqw9ycQ6khVQt4IgHX2jNI=
+immutable@4.3.9:
+  version "4.3.9"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.3.9.tgz#c98349e05e9c6e2a4d8fe88ac0b363e0d536b544"
+  integrity sha512-ObHy4YN7ycwZOUCLI1/6svfyAFu7vL8RhAvVu/bh/RZW9EPlOyDaQ9jDQWCtdqzaXUjgXZCW1migtHE7YI7UGQ==
 
 "immutable@^3.8.1 || ^4.0.0-rc.1":
   version "4.0.0-rc.15"
