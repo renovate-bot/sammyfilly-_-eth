@@ -117,7 +117,7 @@
     "graphql": "16.3.0",
     "history": "4.10.1",
     "ibantools": "2.2.0",
-    "libphonenumber-js": "0.4.40",
+    "libphonenumber-js": "1.13.12",
     "lz-string": "1.4.4",
     "matchmedia-polyfill": "0.3.2",
     "numeral": "2.0.6",
