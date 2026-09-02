@@ -7792,10 +7792,10 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/googlepay@0.6.4":
-  version "0.6.4"
-  resolved "https://registry.yarnpkg.com/@types/googlepay/-/googlepay-0.6.4.tgz#e0b06ae1f12496c4fa43e52d35e76411dbbee135"
-  integrity sha512-PTt/UCllzl8z5HmhymPpSj6uENZvVKZvCBYdDVmbBVJnLStitxtWrterAOQZkKGlqVdzxNXYeif5hOAMNMS5mw==
+"@types/googlepay@0.7.13":
+  version "0.7.13"
+  resolved "https://registry.yarnpkg.com/@types/googlepay/-/googlepay-0.7.13.tgz#e0e0e07a470ede1b80b2932b9a587370f84eb5b0"
+  integrity sha512-Tj9Y/UfYxUHepJe84AXeLLeBaNHySq9NorRTQ0M2uzqEBS+mmzdJYJeK2Z4XhO58gtkndC0915DM7eIn90DCPA==
 
 "@types/graceful-fs@^4.1.2":
   version "4.1.5"
